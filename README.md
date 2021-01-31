@@ -1,6 +1,6 @@
-# unity-basic-xr-template
+# unity-basic-multiplayer-template
 
-This template allows you to quickly setup a basic Unity XR scene. For step-by-step instructions, see:
+This template allows you to quickly setup a multiplayer Unity XR scene. For step-by-step instructions, see:
 
 https://jeffrafter.com/getting-started-with-unity-and-vr/
 
@@ -9,3 +9,11 @@ https://jeffrafter.com/getting-started-with-unity-and-vr/
 ## Using the template
 
 This template was built in Unity 2020.2.1f1 with preview packages.
+
+## Packcages
+
+This template includes the following packages:
+
+- XR integration toolkit (with Oculus Integration)
+- Normcore
+
